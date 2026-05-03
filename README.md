@@ -4,7 +4,11 @@
 This project analyzes how daily habits such as sleep, study hours, and screen time affect productivity.
 
 ## Purpose
-The goal is to transform personal data into meaningful insights that support better decision-making.
+This project demonstrates the ability to:
+- Clean and analyze structured data
+- Build interactive dashboards
+- Generate data-driven insights
+- Apply analytical thinking to real-world problems
 
 ## Features
 - Data visualization dashboard using Streamlit
