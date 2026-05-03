@@ -1,6 +1,11 @@
 # Personal Decision Intelligence Dashboard
 
-[View Full Dashboard (PDF)](dashboard.pdf)
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Key Insights
+![Key Insights](screenshots/dashboard-insights.png)
+
 
 ## Overview
 This project analyzes how daily habits such as sleep, study hours, and screen time affect productivity.
